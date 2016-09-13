@@ -441,7 +441,11 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+<<<<<<< HEAD
 				SWIFT_VERSION = 2.3;
+=======
+				SWIFT_VERSION = 3.0;
+>>>>>>> 5196980bc1c839221f6b1932293a0404f183a648
 			};
 			name = Debug;
 		};
@@ -460,7 +464,11 @@
 				PRODUCT_BUNDLE_IDENTIFIER = co.thesimplelab.Toucan;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+<<<<<<< HEAD
 				SWIFT_VERSION = 2.3;
+=======
+				SWIFT_VERSION = 3.0;
+>>>>>>> 5196980bc1c839221f6b1932293a0404f183a648
 			};
 			name = Release;
 		};
@@ -479,7 +487,11 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "au.net.bunney.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+<<<<<<< HEAD
 				SWIFT_VERSION = 2.3;
+=======
+				SWIFT_VERSION = 3.0;
+>>>>>>> 5196980bc1c839221f6b1932293a0404f183a648
 			};
 			name = Debug;
 		};
@@ -494,7 +506,11 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "au.net.bunney.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+<<<<<<< HEAD
 				SWIFT_VERSION = 2.3;
+=======
+				SWIFT_VERSION = 3.0;
+>>>>>>> 5196980bc1c839221f6b1932293a0404f183a648
 			};
 			name = Release;
 		};
